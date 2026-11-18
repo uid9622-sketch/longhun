@@ -65,7 +65,9 @@ We instantiate this framework in the Longhun System, a civilian-grade human-AI c
 
 Keywords: provenance, content authentication, human-AI collaboration, behavioral signatures, audit trails, digital sovereignty, AI governance
 
+
 ---
+
 
 ---
 
