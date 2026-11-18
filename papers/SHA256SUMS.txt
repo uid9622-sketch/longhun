@@ -1,13 +1,12 @@
-# 龍魂论文库 · 哈希锚定清单 / SHA256SUMS
-# DNA: #龍芯⚡️2026-11-18-BEHAVIORAL-CRYPTOGRAPHY-FULL-PAPER-v1.0
-# Originator: Zhuge Xin（諸葛鑫）· UID9622 · 龍芯北辰
-# GPG: A2D0092CEE2E5BA87035600924C3704A8CC26D5F
-# CONFIRM: #CONFIRM🌌9622-ONLY-ONCE🧬LK9X-772Z
-# SEAL: #ZHUGEXIN⚡️2025-🇨🇳🐉⚖️♠️🧚🏼‍♀️❤️♾️-DEVICE-BIND-SOUL
-# Anchored: 2026-11-18 (Asia/Shanghai) ｜ Verify: sha256sum -c SHA256SUMS.txt
-#
-# 完整单文件合并版（本地交付存档，见对话附件）:
-# 4580bed027f4e9af3a480a338369eda88d867683955b6d507058fe88929ec095  行为密码学-Behavioral-Cryptography-Full-Paper-v1.0.md (254055 bytes)
+<!--
+DNA: #龍芯⚡️2026-11-18-BEHAVIORAL-CRYPTOGRAPHY-FULL-PAPER-v1.0
+GPG: A2D0092CEE2E5BA87035600924C3704A8CC26D5F
+CONFIRM: #CONFIRM🌌9622-ONLY-ONCE🧬LK9X-772Z
+SEAL: #ZHUGEXIN⚡️2025-🇨🇳🐉⚖️♠️🧚🏼‍♀️❤️♾️-DEVICE-BIND-SOUL
+License: CC BY-NC-SA 4.0 + Longhun DNA Inheritance Clause
+Part of: Behavioral Cryptography Full Paper v1.0 (see README.md)
+-->
+
 
 7dd88eb0d5539c9c592946aa2ac0696b7c773eaf1933bbf712886fe5f3f34134  behavioral-cryptography/00-front-matter.md
 8620b27a695f00ba95b72b70db347942d2306e901e07fb9ffd99b4f57adbc895  behavioral-cryptography/01-introduction.md
@@ -15,8 +14,8 @@
 4a7ed76c78d0d1e63dacaeba1ad4a2e2c0dd675da858c101ce620e91e2bc5aa4  behavioral-cryptography/03-1-seven-factor-framework.md
 3a3401d9b7df16ae7caa728db0ab9aad15097e57e537f7952a7df0597177df0d  behavioral-cryptography/03-3-threat-model.md
 b4a85612a92f14e3773b32ff622668f561a28feb121767640b44061a333feb57  behavioral-cryptography/03-4-dynamic-dna-engine.md
-152408428f08b9f2c04e762d393edb2e88ca583d8e820d1921da193e4e60fc90  behavioral-cryptography/03-5-evidence-ledger.md
-45e90014509ec3867419785135e08d16ac2f73b6d38467a8016aa1a125c2737a  behavioral-cryptography/03-6-evaluation-protocol.md
+7f2052412e453dd0e86a5cfd40177dbfd07cda4f247c5ce32a35d19e01b58d47  behavioral-cryptography/03-5-evidence-ledger.md
+c7a2452092cd5418fbd457ce52084cfe120b6772527bc690143bb7775125805d  behavioral-cryptography/03-6-evaluation-protocol.md
 a98921cc830fdadfdb5fac763b72ed8a8b079d525b4202f36e0bfea1b4595171  behavioral-cryptography/03-7-implementation-architecture.md
 445f187c2cf0575050aeee3b0aaaae5362836cbf8b5644b9ff4dac9abd00620e  behavioral-cryptography/03-8-limitations-governance.md
 a5bcf57650655a4187e62cf5459d037692255eceee74c05acd76fe8038aa6047  behavioral-cryptography/03-9-discussion.md
