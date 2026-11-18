@@ -46,8 +46,10 @@ git push
 
 ```bash
 shasum -a 256 DeepSeek聊天记录总结-初心不变.md
-# 应输出：b6b5353e4d66dc2939bf9061d5e1bc3f919132203bc9d5c9aebe121b7f927e88
+# 本地真本应输出：b6b5353e4d66dc2939bf9061d5e1bc3f919132203bc9d5c9aebe121b7f927e88
 ```
+
+**仓内版本说明**：Git 仓内的总结文件与本地真本相差 1 个末尾换行符（15,150 vs 15,151 bytes），仓内版本 SHA-256 为 `e6282548232e54d4b9fd47132c2feb23e513fac5d1be0acab3d47fee4d928947`，MD5 为 `b496ba4ea1b66570cf33b71883a692f6`。两者正文逐字节一致，均为有效真本。
 
 ## 五、DNA 锚链
 
