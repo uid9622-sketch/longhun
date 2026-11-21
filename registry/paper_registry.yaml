@@ -1,0 +1,46 @@
+schema_version: "1.0"
+
+repository:
+  name: "longhun"
+  type: "multi_paper_research_repository"
+  license: "CC-BY-4.0"
+
+governance:
+  overwrite_released_versions: false
+  require_independent_review: true
+  preserve_original_sources: true
+  preserve_audit_evidence: true
+  experiments_default_status: "NOT_RUN"
+  git_history_is_not_access_control: true
+  git_history_is_not_tamper_proof_backup: true
+
+papers:
+  - id: "PAPER-AI-001"
+    name: "AI Hallucination"
+    path: "papers/AI_HALLUCINATION"
+    current_version: "v0.3"
+    status: "CONDITIONAL_PASS"
+    repository_storage: "STRUCTURE_ONLY"
+    experiments_status: "NOT_RUN"
+
+  - id: "PAPER-BC-001"
+    name: "Behavioral Cryptography"
+    path: "papers/behavioral-cryptography"
+    current_version: "v1.0"
+    status: "DRAFT"
+    repository_storage: "PUBLIC_IN_REPOSITORY"
+    review_status: "UNVERIFIED"
+
+  - id: "PAPER-W3-001"
+    name: "Web3 DNA"
+    path: "papers/WEB3_DNA"
+    current_version: "UNASSIGNED"
+    status: "DRAFT"
+    repository_storage: "STRUCTURE_ONLY"
+
+  - id: "PAPER-AG-001"
+    name: "AI Governance"
+    path: "papers/AI_GOVERNANCE"
+    current_version: "UNASSIGNED"
+    status: "DRAFT"
+    repository_storage: "STRUCTURE_ONLY"

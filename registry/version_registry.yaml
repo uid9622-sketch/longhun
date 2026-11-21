@@ -1,0 +1,24 @@
+schema_version: "1.0"
+
+versions:
+  - paper_id: "PAPER-AI-001"
+    version: "v0.3"
+    status: "CONDITIONAL_PASS"
+    repository_storage: "NOT_IMPORTED"
+    experiments_status: "NOT_RUN"
+    external_artifact_sha256:
+      docx: "77a0f515385c8e30cf7ba202af103cc38ad512bf850c85d52e40b1c09fc0a770"
+      pdf: "5594171b6bc7433bec0082f96422663bafa654e24c38172490b02b1667e6d68b"
+
+  - paper_id: "PAPER-BC-001"
+    version: "v1.0"
+    status: "DRAFT"
+    repository_storage: "PUBLIC_IN_REPOSITORY"
+    review_status: "UNVERIFIED"
+    hash_manifest: "papers/SHA256SUMS.txt"
+
+branch_policy:
+  paper_prefix: "paper/"
+  review_prefix: "review/"
+  experiment_prefix: "experiment/"
+  initialize_branches_automatically: false
