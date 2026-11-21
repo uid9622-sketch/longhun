@@ -116,16 +116,32 @@ of individuals are deliberately not published here.
 
 ---
 
+## Multi-paper research repository
+
+One paper is an independent research unit; this repository is their shared management
+surface. Share knowledge without treating unconfirmed conclusions as confirmed, share
+tools without confusing research responsibility, and allow cross-references without
+overwriting another paper's versions or evidence.
+
+- [Paper index and standards](papers/README.md)
+- [Paper registry](registry/paper_registry.yaml)
+- [Version registry](registry/version_registry.yaml)
+- [Shared research resources](shared/README.md)
+- [Paper, review, and release protocols](protocols/README.md)
+
+Released versions and review evidence are append-only. Experiments default to
+`NOT_RUN`; self-review is not independent review. Branches do not replace access
+control, and Git history does not replace independent backups, hashes, or signatures.
+
 ## Licensing
 
-- **Prose and principles** in this repository: CC BY-NC-SA 4.0 — share and adapt with
-  attribution, non-commercial, under the same terms.
-- **Code modules**, when published here: MulanPSL v2 (Mulan Permissive Software License,
-  version 2), the license already used by LongHun engineering repositories.
+All original content in this repository is licensed under **Creative Commons
+Attribution 4.0 International (CC BY 4.0)**. The full legal text is in
+[LICENSE](LICENSE); scope, attribution, and supersession of earlier notices are stated
+in [LICENSE-NOTICE.md](LICENSE-NOTICE.md).
 
-This repository currently contains documents only, so only the document license applies
-so far. Each future source directory will carry its own license file; nothing here should
-be read as relicensing code that lives elsewhere.
+Third-party material remains under its own license. Nothing here relicenses external
+repositories or grants rights beyond those held by the respective rights holders.
 
 ---
 

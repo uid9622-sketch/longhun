@@ -24,7 +24,7 @@
 ```
 longhun-open/
 ├── README.md                  ← 你在这里
-├── LICENSE.md                 ← 君子协议（不是法律协议，是技术良心）
+├── LICENSE.md                 ← CC BY 4.0 法律许可（完整文本见根目录 LICENSE）
 ├── governance/
 │   └── 开源治理五支柱.md        ← 顶置公开·零黑箱·DNA签名·言论需依据·历史归档
 ├── formulas/

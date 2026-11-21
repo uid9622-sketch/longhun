@@ -1,27 +1,32 @@
 # Licensing notice
 
-This repository currently contains **documents only** (principles, goals, notices).
-No executable code is published here yet.
+**SPDX-License-Identifier: CC-BY-4.0**
 
-| Content | License |
-|:--|:--|
-| Prose, principles, and documentation in this repository | CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike 4.0 International) |
-| Code modules, when published in this repository | MulanPSL v2 (Mulan Permissive Software License, version 2) |
+All original content in this repository—including documents, papers, formulas,
+data, and code—is licensed under **Creative Commons Attribution 4.0 International
+(CC BY 4.0)**, unless a file is explicitly identified as third-party material.
 
-Notes:
+The complete legal license text is in [LICENSE](LICENSE). License information:
+https://creativecommons.org/licenses/by/4.0/
 
-1. The two licenses are deliberately not merged. The reasoning is that the ideas layer and
-   the engineering layer carry different obligations: the written principles may be shared
-   and adapted non-commercially with attribution, while engineering code follows the same
-   permissive license already used by LongHun engineering repositories.
-2. Full license texts will be added as `LICENSE-CC-BY-NC-SA-4.0` and `LICENSE-MULANPSL-V2`
-   before any code is published here. Until then, this notice states intent and scope only.
-3. Nothing in this notice relicenses code that lives in another repository, or grants
-   rights beyond the license of that repository.
-4. Commercial use of the documentation requires separate written permission from the
-   copyright holder, Ruian Shimeng Technology Co., Ltd.
+## Attribution
 
-Copyright (c) 2026 Ruian Shimeng Technology Co., Ltd.
+When sharing or adapting repository content, provide appropriate attribution to
+**Zhuge Xin / UID9622 / LongHun**, retain a link to this repository and the CC BY
+4.0 license, and indicate whether changes were made.
+
+## Supersession and scope
+
+1. This notice and `LICENSE` supersede earlier repository or in-file licensing
+   declarations, including CC BY-NC-SA 4.0, MulanPSL v2, “All Rights Reserved,”
+   and custom redistribution or commercial-use restrictions. Historical text is
+   preserved for provenance, but those earlier terms no longer govern this
+   repository's original content.
+2. Ethical guidelines, attribution requests, DNA records, seals, and community
+   norms do not impose additional license restrictions beyond CC BY 4.0.
+3. Third-party material remains subject to its own license. Nothing here grants
+   rights that the repository maintainers do not hold.
+4. Patent and trademark rights are not granted by CC BY 4.0.
+
+Copyright (c) 2026 Ruian Shimeng Technology Co., Ltd. and respective contributors.
 Contact: uid9622@petalmail.com
-
-<!-- DNA: #龍芯⚡️丙午·己亥·己丑·壬申·䷉履-文档-创建-ace45f48 -->

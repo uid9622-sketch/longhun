@@ -1,31 +1,12 @@
-# 🤝 龍魂君子协议 · The Gentleman's Protocol
+# License
 
-**版本**：v1.0（公开版节录）｜ **性质**：这不是法律协议，是技术良心的底线约束。
+All original content in this directory is licensed under **Creative Commons
+Attribution 4.0 International (CC BY 4.0)**.
 
-## 你可以
+The repository-level [LICENSE](../LICENSE) contains the full legal text, and
+[LICENSE-NOTICE.md](../LICENSE-NOTICE.md) defines attribution, scope, and the
+supersession of earlier notices. Ethical or community guidelines are not additional
+license restrictions.
 
-- ✅ 阅读、学习、引用本仓库的算法与工程规范
-- ✅ 在你的项目中复现这些公式（它们是数学，数学属于全人类）
-- ✅ 提出批评、质疑、改进建议（言论自由，但需依据）
-
-## 请你
-
-- 🙏 **写上归属**：引用时标注「龍魂系统 · UID9622」。逻辑是有来源的——写上归属，你的逻辑链条才完整
-- 🙏 **不作恶**：不将本体系用于收割普通人、算法歧视、数据滥用
-- 🙏 **不改义**：转述时不歪曲原意，尤其涉及中华文化的概念（五行、八卦、节气不翻译，这是尊严也是底线）
-
-## 你不能
-
-- ❌ 把本体系的内容改头换面后宣称原创
-- ❌ 用于任何违反中国法律与社会主义核心价值观的场景
-- ❌ 未经授权用于大模型训练、抓取、数据合成
-
----
-
-**完整版**：《龍魂开源宪章·君子协议·创作者赋能系统 v1.1》，见创作者公开主页。
-
-**创作者**：诸葛鑫（龍芯北辰）· UID9622
-**GPG**：`A2D0092CEE2E5BA87035600924C3704A8CC26D5F`
-**DNA**：#龍芯⚡️2026-11-20-GENTLEMAN-PROTOCOL-v1.0
-
-> 用君子协议代替法律协议的公开测试：我相信人心。你不署我的名字，法律未必找得到你，但逻辑链条会断——越往上盖，越不稳。写上归属，对大家都好。
+Attribution: **Zhuge Xin / UID9622 / LongHun**. Indicate changes and retain the
+repository and license links when sharing or adapting the material.
